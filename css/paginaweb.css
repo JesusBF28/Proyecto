@@ -1,0 +1,108 @@
+body{
+	width:100%;
+	background-image:url("../bgbody.jpg");
+}
+nav {
+	background-image: url("../bgheader.jpg");
+	overflow:hidden;
+	background-color:#2C2F30;
+	font-size:2.18vw;
+	border:0.218vw solid #38FF03;
+}
+nav ul{
+	list-style:none;
+}
+nav a{
+	color:#38FF03;
+	text-decoration:none;
+}
+nav li{
+	padding:2% 1% 2% 1%;
+	text-decoration:none;
+	display: inline;
+	margin-left:8%;
+}
+nav li:hover{
+	background-color:black;
+}
+nav a:visited{
+	color:#FC04FC;
+}
+header{
+	margin:4% 38.91% 12% 38.91%;
+	font-size:2.70vw;
+	color:#F55303;
+	text-align:center;
+	background-color:#A528FB;
+	width:22.22%;
+}
+header a{
+	color:#F55303;
+}
+header a:hover{
+	text-decoration:none;
+}
+article{
+	display:flex;
+	flex-wrap:nowrap;
+	text-align:center;
+	color:#38FF03;
+	background-image:url("../bgheader.jpg");
+	margin:7.40%;
+	padding:1.8% 5% 1.8% 5%;
+}
+footer{
+	width:59.52%;
+	background-color:#2C2F30;
+	border: 0.145vw solid #38FF03;
+	overflow:hidden;
+	font-size:1.06vw;
+	margin:10.37% 19.41% 0% 19.41%;
+	padding:0.8%;
+	color:#38FF03;
+	text-align:center;
+}
+footer a{
+	color:#38FF03;
+}
+.flex-container{
+	width:45%;
+	border:0.072vw solid #38FF03;
+	margin-left:2.6%;
+	background-color:#2C2F30;
+}
+.flex-container2{
+	width:90%;
+	border:0.072vw solid #38FF03;
+	margin-left:1.85%;
+	background-color:#2C2F30;
+}
+article table, th, td{
+	width:70%;
+	background-color:black;
+	color:#38FF03;
+	margin:5% 15% 5% 15%;
+	border:0.072vw solid #38FF03;
+	border-collapse:collapse;
+}
+article h3{
+	text-decoration:underline;
+	color:#F55303;
+}
+article a{
+	color:#38FF03;
+}
+article a:hover{
+	text-decoration:none;
+}
+section{
+	width:41.49%;
+	background-color:black;
+	border:0.145vw solid #38FF03;
+	margin:7.4% 29.32% 7.4% 29.32%;
+}
+
+
+
+
+	
