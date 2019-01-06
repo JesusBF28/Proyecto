@@ -91,6 +91,7 @@ article h3{
 }
 article a{
 	color:#38FF03;
+	padding:0%;
 }
 article a:hover{
 	text-decoration:none;
@@ -100,6 +101,9 @@ section{
 	background-color:black;
 	border:0.145vw solid #38FF03;
 	margin:7.4% 29.32% 7.4% 29.32%;
+}
+section iframe{
+	width:99%;
 }
 
 
