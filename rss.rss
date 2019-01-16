@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Lenguajes de marcas</title>
+	<link>https://jesusbf28.github.io/Proyecto/</link>
+	<description>Una pagina web que resume los principales lenguajes de marcas, con tutoriales y videos en cada enlace</description>
+		<item>
+			<title>HTML</title>
+			<link>https://jesusbf28.github.io/Proyecto/HTML.html</link>
+			<description>Tutoriales de HTML</description>
+		</item>
+		<item>
+		<title>CSS</title>
+		<link>https://jesusbf28.github.io/Proyecto/CSS.html</link>
+		<description>Tutoriales de CSS</description>
+		</item>
+		<item>
+		<title>XML</title>
+		<link>https://jesusbf28.github.io/Proyecto/XML.html</link>
+		<description>Tutoriales de XML</description>
+		</item>
+	</channel>
+</rss>
